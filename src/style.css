@@ -1,0 +1,13 @@
+body {
+  max-width: 600px;
+  margin: 0 auto;
+  font-family: "Times New Roman", Times, serif;
+}
+
+form input {
+  margin: 5px;
+}
+hr {
+  border-top: 3px dotted;
+  text-align: center;
+}
